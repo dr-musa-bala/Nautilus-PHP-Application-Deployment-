@@ -162,8 +162,9 @@ curl http://stapp01:8093/index.php
 ```
 
 ---
-## Screenshot
-/c/Users/fresh/OneDrive/Desktop/screenshots_nginx-php-success.png
+## Screenshots
+![Screenshot](screenshots/screenshots_nginx-php-success.png)
+
 
 ## Result
 
