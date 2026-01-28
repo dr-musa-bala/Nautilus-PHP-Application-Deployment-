@@ -162,8 +162,7 @@ curl http://stapp01:8093/index.php
 ```
 
 ---
-## Screenshots
- [![Screenshot](screenshots/test.png)](https://raw.githubusercontent.com/dr-musa-bala/Nautilus-PHP-Application-Deployment-/main/screenshots/test.png)
+
  
 
 
