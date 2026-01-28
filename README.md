@@ -1,6 +1,4 @@
-Good catch 👍 — you’re absolutely right. In PHP-FPM configs, **removing the `;` (comment character)** is a critical step, and missing it will break the socket configuration. Let’s lock this in properly.
 
-Below is a **clean, concrete README.md** you can push to GitHub **as-is**. It’s written like a real DevOps lab success note.
 
 ---
 
