@@ -163,7 +163,7 @@ curl http://stapp01:8093/index.php
 
 ---
 ## Screenshots
-![Screenshot](screenshots/screenshots_nginx-php-success.png)
+![Screenshot](screenshots/screenshots_nginx-php-success.png)(https://raw.githubusercontent.com/dr-musa-bala/Nautilus-PHP-Application-Deployment-/main/screenshots/screenshots/screenshots_nginx-php-success.png)   
 
 
 ## Result
